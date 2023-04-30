@@ -1,2 +1,2 @@
-# iso-game
+# ios-game
 Ios Card game
