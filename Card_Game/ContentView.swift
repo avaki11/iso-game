@@ -67,8 +67,6 @@ struct ContentView: View {
         }
          playerCard = "card" + String(randomPlayerInt)
         cpuCard = "card" + String(randomCPUInt)
-                
-        
     }
 }
 
